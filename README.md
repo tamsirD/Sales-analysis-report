@@ -4,8 +4,9 @@ Ce projet présente un tableau de bord Power BI permettant d’analyser les vent
 
 ## 📥 Téléchargement du fichier Power BI
 
-Vous pouvez télécharger le fichier ici :
+Vous pouvez télécharger le fichier POWER BI et l'ouvrir sur Power BI desktop ici :
 👉 https: https://drive.google.com/drive/u/0/folders/19yP4SZy8IvOuLNg1kRnv24dkBBs6Lq9W
+En parallèle, je vous ai mis des photos et captures de mon travail.
 
 ##  Objectifs
 
