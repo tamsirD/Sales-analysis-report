@@ -2,6 +2,11 @@
 
 Ce projet présente un tableau de bord Power BI permettant d’analyser les ventes d’une entreprise à l’échelle internationale.
 
+## 📥 Téléchargement du fichier Power BI
+
+Vous pouvez télécharger le fichier ici :
+👉 https: https://drive.google.com/drive/u/0/folders/19yP4SZy8IvOuLNg1kRnv24dkBBs6Lq9W
+
 ##  Objectifs
 
 L’objectif de ce dashboard est de :
